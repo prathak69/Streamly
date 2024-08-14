@@ -161,3 +161,7 @@ cython_debug/
 
 # Mac OS generated files
 .DS_Store
+
+#api
+.streamlit/secrets.toml
+

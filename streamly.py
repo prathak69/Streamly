@@ -49,7 +49,7 @@ st.set_page_config(
 )
 
 # Streamlit Title
-st.title("Streamly Streamlit Assistant")
+st.title("Streamly")
 
 def img_to_base64(image_path):
     """Convert image to base64."""
